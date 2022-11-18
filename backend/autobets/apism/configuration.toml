@@ -1,0 +1,7 @@
+[auth]
+login = "tomirl2008@gmail.com"
+password = "07C18125!!"
+
+[api]
+base_url = "https://api.smarkets.com/v3/"
+chunk_size = 20
